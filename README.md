@@ -1,9 +1,7 @@
 ### 
-👋 Hi, I’m Berna (@bbasar)
+👋 Hi, I’m Berna (@bbasar).
 
-👀 I’m interested in data analytics and machine learning, and I’m currently improving my programming and ML skills.
+I’m interested in data analytics machine learning, and exploring different stories the data tell. 
 
-I’m looking to collaborate on analytics-related projects. And, any feedback and comments on my notebooks would be greatly appreciated.
-
-📫 You can reach me at: bernabsr2018@gmail.com
+For any feedback and comments on my notebooks and/or to collaborate, please feel free to reach me at bernabsr2018@gmail.com. 
 
